@@ -1,0 +1,4 @@
+rice
+curd
+salt
+
